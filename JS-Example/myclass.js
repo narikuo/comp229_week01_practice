@@ -13,6 +13,6 @@ class Rectangle {
   }
 }
 
-const square = new Rectangle(10, 10);
+const square = new Rectangle(20, 20);
 
 console.log(square.area); // 100
